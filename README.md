@@ -15,12 +15,12 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Click here]()
-- Live Site URL: [Click here]()
+- Solution URL: [Click here](https://github.com/Mowafak-Bahri/Order-summary-component)
+- Live Site URL: [Click here](https://order-summary-component-taupe-delta.vercel.app/)
 
 ## My process
 
